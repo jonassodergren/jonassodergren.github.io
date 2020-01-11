@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    - name: Filters for GitHub Actions
+#    - name: Filters for GitHub Actions
 #      uses: actions/bin/filter@master
 #      with:
 #        args: branch master
