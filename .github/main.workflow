@@ -7,7 +7,7 @@ action "hugo-deploy-gh-org-pages" {
   uses = "StevenACoffman/hugo-deploy-gh-org-pages@v1.0.3"
   needs = ["Filters for GitHub Actions"]
   secrets = [
-    "jonas.sodergren@gmail.com",
+    "EMAIL",
     "DEPLOY_KEY_PRIVATE"
   ]
   env = {
