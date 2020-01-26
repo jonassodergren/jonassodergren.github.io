@@ -13,16 +13,21 @@
   
   <url>
     <loc>https://jonassodergren.github.io/blog/</loc>
-    <lastmod>2020-01-09T17:02:08+01:00</lastmod>
+    <lastmod>2020-01-25T17:02:08+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jonassodergren.github.io/blog/loadbalancing/</loc>
-    <lastmod>2020-01-09T17:02:08+01:00</lastmod>
+    <loc>https://jonassodergren.github.io/blog/samla_annonser/</loc>
+    <lastmod>2020-01-25T17:02:08+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://jonassodergren.github.io/</loc>
+    <lastmod>2020-01-25T17:02:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jonassodergren.github.io/blog/loadbalancing/</loc>
     <lastmod>2020-01-09T17:02:08+01:00</lastmod>
   </url>
   
