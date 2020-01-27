@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Öppna data och källkod</title>
-    <link>https://jonassodergren.github.io/</link>
+    <link>https://blog.jobtechdev.se/</link>
     <description>Recent content on Öppna data och källkod</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Jan 2020 17:02:08 +0100</lastBuildDate>
     
-	<atom:link href="https://jonassodergren.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.jobtechdev.se/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Om</title>
-      <link>https://jonassodergren.github.io/about/</link>
+      <link>https://blog.jobtechdev.se/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jonassodergren.github.io/about/</guid>
+      <guid>https://blog.jobtechdev.se/about/</guid>
       <description>Arbetsförmedlingen har i uppdrag att verka för att förbättra arbetsmarknadens funktionssätt genom att effektivt sammanföra dem som söker arbete med dem som söker arbetskraft samt bidra till en hållbar och långsiktig sysselsättningsökning.
 Vi har därmed utvecklat och tagit fram digitala verktyg och tjänster som syftar till att effektivisera och främja tillgången och användning av sysselsättningsrelaterad information och data som myndigheten förmedlar till allmänheten.
 Vi kallar satsningen Jobtech – ett ekosystem för arbetsmarknaden där ekosystem definieras som ett ömsesidigt beroende affärsnätverk som erbjuder innovation och produktionsfördelar till sina medlemmar genom elektroniskt utbyte.</description>
@@ -24,10 +24,10 @@ Vi kallar satsningen Jobtech – ett ekosystem för arbetsmarknaden där ekosyst
     
     <item>
       <title>Jobsearch API - Enkel marknadsanalys</title>
-      <link>https://jonassodergren.github.io/blog/tryout-jobsearch/</link>
+      <link>https://blog.jobtechdev.se/blog/tryout-jobsearch/</link>
       <pubDate>Sun, 03 Nov 2019 19:24:42 +0100</pubDate>
       
-      <guid>https://jonassodergren.github.io/blog/tryout-jobsearch/</guid>
+      <guid>https://blog.jobtechdev.se/blog/tryout-jobsearch/</guid>
       <description>Hösten 2019 lanserade det nya API:et jobstream för att hämta alla platsannonser från Platsbanken. Men hur enkelt är det egentligen?
 Det är värdefull för många företag, myndigheter och personer att enkelt få tillgång till all annonsdata. För att prova behövde jag ett problem att försöka lösa.
 Hur många rekryteringssystem finns på marknaden som kräver att en CV laddas upp för att kunna ansöka om ett jobb.
@@ -36,20 +36,20 @@ curl -X GET &amp;quot;https://jobstream.api.jobtechdev.se/stream?date=2019-10-01
     
     <item>
       <title>Samla Sveriges annonser</title>
-      <link>https://jonassodergren.github.io/blog/samla_annonser/</link>
+      <link>https://blog.jobtechdev.se/blog/samla_annonser/</link>
       <pubDate>Sat, 25 Jan 2020 17:02:08 +0100</pubDate>
       
-      <guid>https://jonassodergren.github.io/blog/samla_annonser/</guid>
+      <guid>https://blog.jobtechdev.se/blog/samla_annonser/</guid>
       <description>Under Q1 2020 startar Arbetsförmedlingen samarbeten med offentliga och privata aktörer för att samla alla annonser på arbetsmarknaden. Målsättning En mer tillgänglig arbetsmarknad där alla enklare hittar till de jobb som finns i Sverige. Alla annonssajter väljer själva om de vill vara med.
  Jobbsökare får enklare kännedom om vart alla jobb finns Annonssajter får mer exponering för sina annonser Fler besökare till annonssajterna  Erbjudande Insamlingen av annonser bygger på skrapning och anslutningen för annonssajterna är enkel.</description>
     </item>
     
     <item>
       <title>DevOps - High availability load balancing</title>
-      <link>https://jonassodergren.github.io/blog/loadbalancing/</link>
+      <link>https://blog.jobtechdev.se/blog/loadbalancing/</link>
       <pubDate>Thu, 09 Jan 2020 17:02:08 +0100</pubDate>
       
-      <guid>https://jonassodergren.github.io/blog/loadbalancing/</guid>
+      <guid>https://blog.jobtechdev.se/blog/loadbalancing/</guid>
       <description>In order to further improve the availability of Jobtech services we are exploring load balancing over multiple Openshift clusters. An Openshift cluster in itself is highly available, and with the deployment we use we can loose an entire worker node and the workloads will evacuate to other worker nodes in order to regain redundancy. In normal cases this means no service interuptions will be noticeable, since workloads are usually deployed redundantly.</description>
     </item>
     
